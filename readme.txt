@@ -1,3 +1,5 @@
+This is an applescript which allows you to send tweets from the presenters notes of a keynote presentation.
+
 1. I did not make this, some other guy did:
 
 	http://code.google.com/p/keynotetweet/
